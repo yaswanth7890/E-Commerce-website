@@ -15,6 +15,7 @@ const Speakers = () => {
               <div className='probox'>
               <img className='proimage' src={item.image} alt="computers"/>
               </div>
+          
           )
   
       })
